@@ -3,3 +3,4 @@ Notre solution est un système facile et sécurisé de paiement et de transfert 
 ![MAAGIC-01](https://user-images.githubusercontent.com/111227978/184535692-bbc927c7-3aa8-4101-9c04-411dc09185d4.jpg)
 ![MAAGIC-06](https://user-images.githubusercontent.com/111227978/184535974-4a9eae36-4c48-42d6-9fc6-82f96c88cb2c.jpg)
 ![MAAGIC-11](https://user-images.githubusercontent.com/111227978/184535763-08e6d4d5-e119-4b64-8943-b9576f1ab61c.jpg)
+![MAAGIC-12](https://user-images.githubusercontent.com/111227978/184536603-7ce4bbb0-6038-4c6c-8c76-3621ab2588d5.jpg)
